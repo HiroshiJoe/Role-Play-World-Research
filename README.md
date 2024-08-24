@@ -67,7 +67,7 @@ The dataset used in this study contains the following columns:
 **Please note that the data is private and not available for public use due to confidentiality and privacy concerns.** Only authorized researchers with specific access permissions may use this dataset.
 
 ## Methodology
-The study employs a combination of qualitative and quantitative methods to analyze user sentiments. Sentiment analysis techniques, including natural language processing (NLP) and machine learning models, are used to assess the overall sentiment of RPW users.
+This study builds upon the qualitative findings of a previous investigation into the Role Play World (RPW) community by employing Exploratory Data Analysis (EDA) and other quantitative methods to analyze user sentiments. The methodology is designed to provide a comprehensive understanding of user experiences and sentiments within the RPW community.
 
 ## Results
 The analysis reveals a generally positive sentiment within the RPW community, with variations across different user groups and interview sections. The findings suggest that anonymity plays a crucial role in facilitating open communication and positive interactions.
