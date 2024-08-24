@@ -55,7 +55,7 @@ To perform sentiment analysis on your RPW dataset:
 The dataset used in this study contains the following columns:
 
 - **InterviewSection:** The section of the interview (e.g., first interview, second interview).
-- **RespondentType:** The type of respondent (e.g., new user, veteran user).
+- **RespondentType:** The type of respondent (e.g., first respondent, second respondent).
 - **RespondentName:** The pseudonym or identifier of the respondent.
 - **RPWUserSince:** The year the respondent started using RPW.
 - **Question:** The questions asked during the interview.
