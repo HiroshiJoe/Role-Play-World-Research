@@ -83,7 +83,7 @@ Further research could explore the long-term effects of RPW participation on use
 Contributions are welcome! Please fork this repository and submit a pull request if you'd like to contribute to this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 Special thanks to the RPW community members for participating in this study and to all contributors who helped make this project possible.
