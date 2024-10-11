@@ -1,4 +1,3 @@
-![Role Play World Community](rpw.png)
 # Sentiment Analysis of the Role Play World (RPW) Community
 
 ### A Comprehensive Study on User Sentiments, Anonymity, and Social Interactions
